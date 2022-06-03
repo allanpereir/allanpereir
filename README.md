@@ -11,7 +11,7 @@
   
  ##
   
-### Tecnologias/Ferramentas que gosto de Trabalhar 
+### Tecnologias & Ferramentas 
 <div style="display: inline_block"><br>
     <img align="center" alt="alan-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
     <img align="center" alt="alan-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
