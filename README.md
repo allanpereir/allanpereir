@@ -1,7 +1,8 @@
 ### Olá eu sou Alan silva 👋
 
 - 🔭 Hoje trabalho como Analista de Sistemas - SAP e migrando para area de Desenvolvimento Mobile iOS.
-- 🌱 Estudando Swift
+- 🌱 Estudando View Code e Tetes Unitarios
+ 
 
 <div align="center"> 
   <a href="https://github.com/allanpereir">
