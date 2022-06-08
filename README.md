@@ -1,6 +1,7 @@
 ### Olá eu sou Alan silva 👋
 
-- 🔭 Hoje trabalho como Analista de Sistemas - SAP e migrando para area de Desenvolvimento Mobile iOS.
+- 	:man_technologist: Atualmente trabalhando como Analista de Sistemas - ERP (TOTVS Datasul e SAP S4HANA) 
+- 🔭 Buscanco novos conhecimentos e oportunidade na área de Desenvolvimento Mobile iOS.
 - 🌱 Estudando View Code e Tetes Unitarios
  
 
